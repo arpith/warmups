@@ -9,7 +9,7 @@ Write a function that can take any two of these values and calculate the third.
 
 ## Usage 
 1. `git clone https://github.com/arpith/warmups && cd warmups/EE101`
-2. `python ee101 -v VOLTAGE -i CURRENT -r RESISTANCE` (enter any two of these!)
+2. `python __init__.py -v VOLTAGE -i CURRENT -r RESISTANCE` (enter any two of these!)
 
 ## Test
 `python tests.py`
