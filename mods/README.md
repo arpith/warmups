@@ -13,3 +13,6 @@ returns
   [5, 302] # 2 mod 3
 ]
 ```
+
+## Testing
+`$ python3 tests.py`
